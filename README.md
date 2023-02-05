@@ -6,10 +6,12 @@
 ![](picture1.png)
 * 下面是网课的链接：
   
-    |知识点|B站|油管|
-    |:--------:|:---------:|:--------:|
-    |用例图|[UML用例图B站](https://www.bilibili.com/video/BV1Bz4y1Z7ZV/?spm_id_from=333.337.search-card.all.click&vd_source=16b1b0409d11ad21fe29562b0e9fc9b4)|[UML用例图油管](https://www.youtube.com/watch?v=zid-MVo7M-E&t=9s)|
-    |类图|[UML类图B站](https://www.bilibili.com/video/BV1P741127u7?p=2&vd_source=16b1b0409d11ad21fe29562b0e9fc9b4)|[UML类图油管](https://www.youtube.com/watch?v=UI6lqHOVHic&t=7s)
+    |知识点|B站|油管|学习建议|
+    |:--------:|:---------:|:--------:|:--------:|
+    |用例图|[UML用例图B站](https://www.bilibili.com/video/BV1Bz4y1Z7ZV/?spm_id_from=333.337.search-card.all.click&vd_source=16b1b0409d11ad21fe29562b0e9fc9b4)|[UML用例图油管](https://www.youtube.com/watch?v=zid-MVo7M-E&t=9s)|先看视频|
+    |类图|[UML类图B站](https://www.bilibili.com/video/BV1P741127u7?p=2&vd_source=16b1b0409d11ad21fe29562b0e9fc9b4)|[UML类图油管](https://www.youtube.com/watch?v=UI6lqHOVHic&t=7s)|先看视频
+    |顺序图|[机翻勉强能看](https://www.bilibili.com/video/BV12f4y127pp/?spm_id_from=333.337.search-card.all.click&vd_source=16b1b0409d11ad21fe29562b0e9fc9b4)|[UML顺序图油管全英](https://www.youtube.com/watch?v=pCK6prSq8aw&list=PLUoebdZqEHTxpGCwKrb82cIvHNoNaBb4R&index=4)|先看PPT
+    |状态图|/|/|PPT还行
 
-* 这个md是用来练习mardown的，所以写的丑陋:hankey:
+* 这个md是用来练习markdown的，所以写的丑陋:hankey:
 * md仙桃301是真冷
